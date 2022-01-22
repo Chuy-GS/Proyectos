@@ -1,0 +1,16 @@
+console.log("hola");
+console.log("como estas");
+console.log("bien y tu");
+console.log("oye, te inscribiste a un curso de progamación no?");
+console.log("si");
+console.log("Que tal tu curso");
+console.log("pues bien son bastantes entretenidas las clases");
+console.log("me alegro, oye y que has aprendido");
+console.log("pues son las primeras clases así que vimos lo más basico");
+console.log("y estabamos usando una pagina llamada code.org y vimos crear un juego simple");
+console.log("Wow, que chido");
+console.log("oye y a ti como te va");
+console.log("pff, mas o menos, estuvimos en semana de examenes");
+console.log("que mal, espero que te haya ido bien en tus examenes");
+console.log("Gracias");
+console.log("bueno, me tengo que ir bye");
